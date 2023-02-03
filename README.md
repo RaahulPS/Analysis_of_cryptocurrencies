@@ -6,8 +6,8 @@ We have developed an app which predicts the future cryptocurrency values of btc-
 #### Team Leader: MOHAMED FARHUN M 
 #### Members: NANDHAKUMAR S,DHIVAKAR S,RAAHUL PS
 #### Designation: Student at BANNARI AMMAN INSTITUTE OF TECHNOLOGY, SATHYAMANGALAM.
-#### Contact: +919360593132
-#### Mail: mohamedfarhun.it20@bitsathy.ac.in
+#### Contact: +918825619379
+#### Mail: raahul.it20@bitsathy.ac.in
 
 ## What we used......
 • Daisi
